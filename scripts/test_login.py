@@ -9,4 +9,5 @@ class TestLogin:
 
     def test_login(self):
         print("hello")
-
+    def test_login1(self):
+        print("test_login1")
